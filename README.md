@@ -6,7 +6,7 @@ Este repositorio contiene el **formulario**, el **cuadernillo Jupyter** y utilid
 - Estimación de **role-fit** (PM/Líder, Backend/API, Frontend/UX, Data/ML, QA, DevOps).
 - **Recomendaciones de capacitación** por persona y **reportes profundos**.
 
-> Coordinación: **Lizzy Pamela Mejía** — `lpmejiam@unah.hn`  
+> Coordinadora: **Lizzy Pamela Mejía** — `lpmejiam@unah.hn`  
 > Fecha de este paquete: 07/Oct/2025
 
 ---
@@ -17,7 +17,7 @@ Este repositorio contiene el **formulario**, el **cuadernillo Jupyter** y utilid
 /
 ├─ FODA_Liderazgo_Analisis.ipynb     # Notebook principal
 ├─ foda_output.zip                    # Resultados (CSV, PNG, reportes)
-└─ output/                            # (opcional) carpeta de resultados descomprimidos
+
 ```
 ---
 
@@ -48,6 +48,6 @@ Este repositorio contiene el **formulario**, el **cuadernillo Jupyter** y utilid
 
 ---
 
-## 📬 Contacto
+##  Contacto
 
-- Coordinación: `lpmejiam@unah.hn`
+- Emails: `lpmejiam@unah.hn` `02lizzymejia12@gmail.com`
