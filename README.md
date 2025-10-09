@@ -11,7 +11,7 @@ Este repositorio contiene el **formulario**, el **cuadernillo Jupyter** y utilid
 
 ---
 
-## 🧭 Estructura
+##  Estructura
 
 ```
 /
@@ -21,7 +21,7 @@ Este repositorio contiene el **formulario**, el **cuadernillo Jupyter** y utilid
 ```
 ---
 
-## ⚡ Inicio rápido (Colab)
+##  Inicio rápido (Colab)
 
 1. Carga `FODA_Liderazgo_Analisis.ipynb` en **Google Colab**.
 2. Ejecuta la **Celda 1 (Carga)** y **Celda 2 (Análisis)** (sube `respuestas.xlsx` o usa Drive/URL).
@@ -30,7 +30,7 @@ Este repositorio contiene el **formulario**, el **cuadernillo Jupyter** y utilid
 
 ---
 
-## 🧪 Metodología (resumen)
+##  Metodología (resumen)
 
 - Normalización 1–5 → 0–1: `(x-1)/4`.
 - Promedios por grupo de competencias (regex configurables).
@@ -40,7 +40,7 @@ Este repositorio contiene el **formulario**, el **cuadernillo Jupyter** y utilid
 
 ---
 
-## 🧯 Troubleshooting
+##  Troubleshooting
 
 - En Colab usa rutas bajo `/content` (no `/mnt/data`).
 - Ajusta regex de `MAP`/`LIKERT_GROUPS` si cambiaste textos.
